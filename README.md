@@ -1,6 +1,6 @@
 # Shiny Apps Gallery
 
-A hub for my interactive apps. Click on the 'Open app' button to launch the app.
+A hub for my interactive apps. Click on the 'Open App' button to launch the app.
 
 ## Apps
 ### 1) An app with clickable images
